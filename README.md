@@ -35,7 +35,7 @@ Runs a silent audio stream (at volume 0) to keep the PipeWire audio pipeline act
 ### Quick Install
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/smsl-linux-fix/main/fix-smsl-popping.sh
+curl -fO https://raw.githubusercontent.com/AnbuBlackOpsTech/smsl-linux-fix/master/fix-smsl-popping.sh
 chmod +x fix-smsl-popping.sh
 ./fix-smsl-popping.sh
 sudo reboot
@@ -45,7 +45,7 @@ sudo reboot
 
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/YOUR_USERNAME/smsl-linux-fix/main/fix-smsl-popping.sh
+   wget https://raw.githubusercontent.com/AnbuBlackOpsTech/smsl-linux-fix/master/fix-smsl-popping.sh
    ```
 
 2. Make it executable:
